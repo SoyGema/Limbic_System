@@ -14,4 +14,6 @@ Type of neural net that could be implemented : CNNs, RNNs
 
 ORBITOFRONTAL CORTEX :image sensatory input 
 
+SENSATORY CORTEX 
+
 ![alt tag](https://github.com/SoyGema/Limbic-System/blob/master/BRAIN_ANIMATION.gif)
