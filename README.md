@@ -12,4 +12,6 @@ Type of neural net that could be implemented : reinforce LSTM,
 THE THALAMUS : sensory middle-dispositive conected with the cortex
 Type of neural net that could be implemented : CNNs, RNNs
 
+ORBITOFRONTAL CORTEX :image sensatory input 
+
 ![alt tag](https://github.com/SoyGema/Limbic-System/blob/master/BRAIN_ANIMATION.gif)
