@@ -14,6 +14,6 @@ Type of neural net that could be implemented : CNNs, RNNs
 
 ORBITOFRONTAL CORTEX :image sensatory input 
 
-SENSORY CORTEX 
+SENSORY CORTEX : The sensory cortex process the senses information - visual, olfatory - and separates the sensory data 
 
 ![alt tag](https://github.com/SoyGema/Limbic-System/blob/master/BRAIN_ANIMATION.gif)
