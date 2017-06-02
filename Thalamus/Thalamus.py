@@ -1,6 +1,6 @@
 #CNN Structure as a Thalamus
 #InceptionV3 + #CNN_new structure
-
+# The following is adopted from the code provided by Google's Martin Gorner and John Becina article about Tensorboard
 
 # 1. -------------- IMPORT WORK STATEMENTS --------------------
 
