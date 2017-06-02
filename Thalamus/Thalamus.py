@@ -170,7 +170,7 @@ def cnn_model_fn(features, labels, mode):
     input_layer = tf.reshape(features, [-1, 600, 749, 1])
     tf.summary.image('input', input_layer, 10) #Logs 10 sample images to view in TensorBoard
     
-    # Convolutional Layer #1 - Out 300x749 image because stride 2
+    # Convolutional Layer #1 - Out 300x375 image because stride 2
 ##Change stride and it will change the output 
     with tf.name_scope('cnn_layer1_8x8x8-s2'):
         conv1 = tf.layers.conv2d(
@@ -188,7 +188,7 @@ def cnn_model_fn(features, labels, mode):
         tf.summary.histogram('bias', bn1)
         tf.summary.histogram('activations', re1)
     
-    # Convolutional Layer #2 - Out 150 x  image because stride 2
+    # Convolutional Layer #2 - Out 150 x 162 image because stride 2
     with tf.name_scope('cnn_layer2_6x6x16-s2'):
         conv2 = tf.layers.conv2d(
             strides=(2, 2),
@@ -205,7 +205,7 @@ def cnn_model_fn(features, labels, mode):
         tf.summary.histogram('bias', bn2)
         tf.summary.histogram('activations', re2)
 
-    # Convolutional Layer #3 - Out 15 x 20 image because stride 2
+    # Convolutional Layer #3 - Out 75 x 80 image because stride 2
     with tf.name_scope('cnn_layer3_3x3x48-s2'):
         conv3 = tf.layers.conv2d(
             strides=(2, 2),
@@ -222,8 +222,8 @@ def cnn_model_fn(features, labels, mode):
         tf.summary.histogram('bias', bn3)
         tf.summary.histogram('activations', re3)
     
-    # Flatten so we can use the output
-    re3_flat = tf.reshape(re3, [-1, 15 * 20 * 36])
+    # Flatten so we can use the output ## 36 number is because of the filters 
+    re3_flat = tf.reshape(re3, [-1, 75 * 80 * 36])
     
     # Dense layer - 2048 hidden nodes with a dropout rate of 30%
     with tf.name_scope('dense_layer4_10800x2048'):
@@ -281,7 +281,7 @@ def cnn_model_fn(features, labels, mode):
 
 # Build our clasifier
 simp_classifier = tf.estimator.Estimator(
-    model_fn=cnn_model_fn, model_dir="/tmp/simpsons_conv_model")
+    model_fn=cnn_model_fn, model_dir="/tmp/thalamus")
 
 # This is the actual training step. You can interrupt and resume it as needed since it's checkpointed
 simp_classifier.train(input_fn=train_data_input_fn, steps=5000)
