@@ -1,12 +1,16 @@
 # LymbicSystem
+## Inspiration
+This work breaths from the paper from nature to develop Artificial Intelligence advacement through brain reverse engineering and bio inspiration. You can find the paper here 
+http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf
 
-#----------------------------------------------------------------------------------------------------------------------------------#
-##Description -Source wikipedia-
+
+#-----------------------------------------------------------------#
+## Description -Source wikipedia-
 The limbic system is a set of brain structures located on both sides of the thalamus, immediately beneath the cerebrum.[1] It has also been referred to as the paleomammalian cortex. It is not a separate system but a collection of structures from the telencephalon, diencephalon, and mesencephalon.[2] It includes the olfactory bulbs, hippocampus, hypothalamus, amygdala, anterior thalamic nuclei, fornix, columns of fornix, mammillary body, septum pellucidum, habenular commissure, cingulate gyrus, parahippocampal gyrus, limbic cortex, and limbic midbrain areas.[3]
 
 The limbic system supports a variety of functions including emotion, behavior, motivation, long-term memory, and olfaction.[4] Emotional life is largely housed in the limbic system, and it has a great deal to do with the formation of memories.
 
-#----------------------------------------------------------------------------------------------------------------------------------#
+## What you can find in this repository 
 In this repository you can find several experiments to reverse eingeniering documentation
 Data gathering. Cognitive Experiments.  Neural Net Experimentation , from classification to Architecture model Design
 
