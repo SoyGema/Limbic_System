@@ -3,6 +3,7 @@
 This work breaths from the paper from nature to develop Artificial Intelligence advacement through brain reverse engineering and bio inspiration. You can find the paper here 
 http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf
 
+There is a part coming from waitbutwhy neurallink article that explores the functions behind the lymbic system, aiming for it as an advanced survival system . Developed lymbic system seem to be a biological sign about maturity 
 
 #-----------------------------------------------------------------#
 ## Description -Source wikipedia-
@@ -14,14 +15,16 @@ The limbic system supports a variety of functions including emotion, behavior, m
 In this repository you can find several experiments to reverse eingeniering documentation
 Data gathering. Cognitive Experiments.  Neural Net Experimentation , from classification to Architecture model Design
 
+# Main function description architecture 
+
 Find bellow a descripcion of main parts and ideas regarding neural nets that could be implemented
 
 THE AMYGDALA : Responds to fear, danger and anxiety. There are two parts of the amygdala that show an adversarial behaviour
-Type of neural net that could be implemented : perceptron, adversarial neural net, logistic regression
-
+Type of neural net that could be implemented : perceptron, adversarial neural net, logistic regression.
+As other ideas, one shot learning -as a quick response to fear- 
 
 THE HIPPOCAMPUS : memory survival mode approach 
-Type of neural net that could be implemented : reinforce LSTM,
+Type of neural net that could be implemented : reinforced LSTM,
 
 THE THALAMUS : sensory middle-dispositive conected with the cortex
 Type of neural net that could be implemented : CNNs, RNNs, InceptionV3 and InceptionV4
