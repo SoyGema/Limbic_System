@@ -5,6 +5,8 @@ http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf
 
 There is a part coming from waitbutwhy neurallink article that explores the functions behind the lymbic system, aiming for it as an advanced survival system . Developed lymbic system seem to be a biological sign about maturity  https://waitbutwhy.com/2017/04/neuralink.html
 
+Information about Neural Net architectures http://www.deeplearningbook.org
+
 #-----------------------------------------------------------------#
 ## Description -Source wikipedia-
 The limbic system is a set of brain structures located on both sides of the thalamus, immediately beneath the cerebrum.[1] It has also been referred to as the paleomammalian cortex. It is not a separate system but a collection of structures from the telencephalon, diencephalon, and mesencephalon.[2] It includes the olfactory bulbs, hippocampus, hypothalamus, amygdala, anterior thalamic nuclei, fornix, columns of fornix, mammillary body, septum pellucidum, habenular commissure, cingulate gyrus, parahippocampal gyrus, limbic cortex, and limbic midbrain areas.[3]
