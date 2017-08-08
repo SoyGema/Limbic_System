@@ -41,3 +41,7 @@ ES - Emotional signal
 
 
 ![alt tag](https://github.com/SoyGema/Limbic-System/blob/master/BRAIN_ANIMATION.gif)
+
+Please, note this is a work under development 
+## How can I contribute?
+You specially can contribute in NeuralNet design and experimentation, and / or correcting any misinterpretation or incorrect concept that you might find . You can also recommend some lectures or papers that may be of interest 
