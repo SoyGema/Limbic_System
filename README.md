@@ -45,3 +45,13 @@ ES - Emotional signal
 Please, note this is a work under development 
 ## How can I contribute?
 You specially can contribute in NeuralNet design and experimentation, and / or correcting any misinterpretation or incorrect concept that you might find . You can also recommend some lectures or papers that may be of interest 
+
+## To do / done 
+
+- [ ] Datasets
+- [ ] Datasets
+- [x] Thalamus structure 
+- [x] Discovery PoCs
+- [x] Inspiration links
+- [x] Neural Net description
+- [x] Architectural design
