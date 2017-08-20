@@ -1,0 +1,1 @@
+Folder for CNN training
