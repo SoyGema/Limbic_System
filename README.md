@@ -1,4 +1,12 @@
 # LymbicSystem
+
+[![GitHub license](https://img.shields.io/github/license/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/network)
+[![GitHub stars](https://img.shields.io/github/stars/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/stargazers)
+[![GitHub license](https://img.shields.io/github/license/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/SoyGema/Limbic_System.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FSoyGema%2FLimbic_System)
+
+
 ## Inspiration
 This work breaths from the paper from nature to develop Artificial Intelligence advacement through brain reverse engineering and bio inspiration. You can find the paper here 
 http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf
