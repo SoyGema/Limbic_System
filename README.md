@@ -1,4 +1,4 @@
-# LymbicSystem
+# Limbic System
 
 [![GitHub license](https://img.shields.io/github/license/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/SoyGema/Limbic_System.svg)](https://github.com/SoyGema/Limbic_System/network)
@@ -11,7 +11,7 @@
 This work breaths from the paper from nature to develop Artificial Intelligence advacement through brain reverse engineering and bio inspiration. You can find the paper here 
 http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf
 
-There is a part coming from waitbutwhy neurallink article that explores the functions behind the lymbic system, aiming for it as an advanced survival system . Developed lymbic system seem to be a biological sign about maturity  https://waitbutwhy.com/2017/04/neuralink.html
+There is a part coming from waitbutwhy neurallink article that explores the functions behind the limbic system, aiming for it as an advanced survival system . https://waitbutwhy.com/2017/04/neuralink.html
 
 Information about Neural Net architectures http://www.deeplearningbook.org
 
@@ -56,8 +56,8 @@ You specially can contribute in NeuralNet design and experimentation, and / or c
 
 ## To do / done 
 
-- [ ] Datasets
-- [ ] Datasets
+- [x] Datasets
+- [x] Datasets
 - [x] Thalamus structure 
 - [x] Discovery PoCs
 - [x] Inspiration links
